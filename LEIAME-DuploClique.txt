@@ -1,0 +1,48 @@
+CONTROLE DE FALTAS & HORAS EXTRAS — COMO USAR
+================================================
+
+1) PARA ABRIR
+   Dê DOIS CLIQUES em "ControleFaltas.exe".
+   Não precisa instalar nada. A planilha precisa estar na MESMA PASTA
+   que o programa (do jeito que veio).
+
+2) USO DO DIA A DIA
+   - Escolha o funcionário na lista da esquerda (digite para filtrar).
+   - Escolha o mês nas setas ou na caixinha.
+   - Digite os 4 horários do dia (pode digitar 730 que vira 07:30).
+     ENTER pula para o próximo campo.
+   - Os totais (Trab / Falta / Extra) calculam sozinhos na hora.
+   - Clique em "SALVAR NA PLANILHA" (ou Ctrl+S). Pronto: já está na planilha.
+
+3) BOTÕES ÚTEIS
+   - "Preencher dias úteis vazios": completa de uma vez os dias vazios
+     com 07:30-12:00 / 13:00-17:48 (dias já digitados não mudam).
+   - "Zerar fins de semana": limpa sábado e domingo.
+   - ↺ (na linha): repete o horário do dia anterior.
+   - ✕ (na linha): limpa o dia.
+   - "Novo mês" / "Novo funcionário": criam a aba na planilha sozinhos.
+
+4) SÍMBOLO ✎ (lápis)
+   Significa "ajuste manual feito no Excel" (abono, atestado etc.).
+   O programa NÃO apaga esse ajuste. Para voltar ao cálculo automático,
+   clique no botão ƒx da linha e depois em Salvar.
+
+5) SE DER AVISO "Feche o Excel"
+   Significa que a planilha está aberta no Excel travando a gravação.
+   Feche o Excel, clique em Salvar de novo. Nada se perde.
+
+6) SEGURANÇA
+   A cada salvamento o programa guarda uma cópia automática na pasta
+   "backups". As fórmulas da planilha nunca são apagadas.
+
+7) PRIMEIRA VEZ NO WINDOWS
+   O Windows pode mostrar "Origem desconhecida" por o programa não ser
+   assinado. Clique em "Mais informações" > "Executar assim mesmo".
+   É seguro: o programa só lê e grava a planilha da própria pasta.
+
+DÚVIDAS FREQUENTES
+- Posso mexer na planilha direto? Sim. Ao voltar ao programa, clique
+  em "Recarregar".
+- Apaguei algo sem querer? Procure a cópia mais recente na pasta backups,
+  feche o programa, copie por cima da planilha e abra de novo.
+- Posso levar numa pasta/pendrive? Sim: leve o .exe + a planilha juntos.
